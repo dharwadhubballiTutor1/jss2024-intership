@@ -1,0 +1,2 @@
+thisdict=dict()
+print(thisdict)
